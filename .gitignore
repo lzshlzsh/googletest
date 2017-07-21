@@ -1,3 +1,20 @@
 # Ignore CI build directory
 build/
 xcuserdata
+*.o
+cscope.*out
+*.swp
+*.a
+build-aux/
+cscope.files
+googletest/make/sample1_unittest
+googletest/samples/sample10_unittest
+googletest/samples/sample1_unittest
+googletest/samples/sample2_unittest
+googletest/samples/sample3_unittest
+googletest/samples/sample4_unittest
+googletest/samples/sample5_unittest
+googletest/samples/sample6_unittest
+googletest/samples/sample7_unittest
+googletest/samples/sample8_unittest
+googletest/samples/sample9_unittest
